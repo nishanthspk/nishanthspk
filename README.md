@@ -4,9 +4,7 @@
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 <h3>As a dynamic Frontend Web Developer and aspiring UI/UX Designer, I am fervently dedicated to continuous learning and embracing emerging technologies.</br> My passion extends to exploring the intricate world of blockchain technology, further enriching my skill set. </br> Committed to creating seamless, user-centric digital experiences, I leverage my expertise to drive innovation in the ever-evolving landscape of web development and design.</h3>
 
-<a href="#NIshanthSPK-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishanthSPK&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Nishanth SPK" align="right" />
-</a>
+
 
 - 👋 Hi, I’m Nishanth SPK
 - 👀 I’m fervently dedicated to continuous learning and embracing emerging technologies
