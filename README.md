@@ -190,7 +190,7 @@
   </tr>
     
 </table>
-Here are some 🦜 Party Parrots:
+Here are some 🦜 Party 
 
 
 
