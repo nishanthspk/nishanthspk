@@ -190,7 +190,7 @@
   </tr>
     
 </table>
-Here are some 🦜 Party 
+Here are some 🦜 
 
 
 
