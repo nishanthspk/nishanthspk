@@ -190,7 +190,7 @@
   </tr>
     
 </table>
-Here are some 
+Here are 
 
 
 
