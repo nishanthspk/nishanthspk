@@ -21,7 +21,11 @@
             alt="NISHANTH">
         </a>
       </td>
-     
+      <!-- <td align="center">
+      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      </a>
+    </td> -->
       <td align="center">
         <a href="https://www.instagram.com/spkn_04?igsh=NXQ2cnE2endpNjA0" target="_blank">
           <img
@@ -45,7 +49,11 @@
       </td>
     </tr>
     <tr>
-  
+      <!-- <td align="center">
+      <a href="https://twitch.tv/knightgamer2910" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square" alt="knightgamer2910">
+      </a>
+    </td> -->
       <td align="center">
         <a href="https://x.com/NishanthSpk" target="_blank">
           <img
@@ -135,7 +143,44 @@
 
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanthspk&theme=highcontrast&hide_border=true">
-   
+    <!-- 
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/nishanthspk/MemeVerse">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanthspk&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/KenanGain/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KenanGain/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <a href="https://github.com/KenanGain/SmolLM">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div> -->
+
     <br>
     <br>
 
@@ -414,7 +459,12 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80"
             height="50" /><br>LangChain
         </td>
-      
+        <!-- <td align="center" style="border: none;">
+        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
+      </td>
+  <td align="center" style="border: none;">
+        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
+      </td> -->
       </tr>
     </tbody>
   </table>
@@ -440,6 +490,7 @@
             width="50" height="50" alt="Claude (Anthropic)" /><br>Claude (Anthropic)
         </td>
         <td align="center" style="border: none;">
+          <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
           <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80"
             height="80" /><br>Google Gemini
         </td>
@@ -480,7 +531,7 @@
       <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9345444174&size=square"
         target="_blank">
         <img
-          src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9345444174&size=square"
+          src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-93454441&size=square"
           alt="India-+91-934-544-4174" style="margin: 10px;">
       </a>
     </td>
