@@ -469,9 +469,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </a>
     </td>
    
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-+91-934-544-4174" style="margin: 10px;">
+   <td align="center">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9345444174&size=square"
+        target="_blank">
+        <img
+          src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9345444174&size=square"
+          alt="India-+91-934-544-4174" style="margin: 10px;">
       </a>
     </td>
   </tr>
