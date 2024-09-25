@@ -30,7 +30,20 @@
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@nishanthspk&size=square" alt="@nishanthspk">
       </a>
     </td>
-  
+   <td align="center">
+        <a href="https://www.linkedin.com/in/nishanth-spk/" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Nishanth SPK&size=square"
+            alt="Nishanth SPK">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.facebook.com/profile.php?id=100071304971942&mibextid=ZbWKwL" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Nishanth SPK&size=square"
+            alt="Nishanth SPK">
+        </a>
+      </td>
   </tr>
   <tr>
     <!-- <td align="center">
