@@ -1,10 +1,9 @@
-
-
-
-<h1 align="center">Hello  , I'm NISHANTH SPK</h1>
+<h1 align="center">Hello , I'm NISHANTH SPK</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Free+Lancer;" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Free+Lancer;"
+    alt="Typing SVG" />
 
 </p>
 
@@ -13,24 +12,24 @@
 </p>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://nishanthspk.vercel.app/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=NISHANTH+SPK&size=square" alt="NISHANTH">
-      </a>
-    </td>
-    <!-- <td align="center">
-      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
-      </a>
-    </td> -->
-    <td align="center">
-      <a href="https://www.instagram.com/spkn_04?igsh=NXQ2cnE2endpNjA0" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@nishanthspk&size=square" alt="@nishanthspk">
-      </a>
-    </td>
-   <td align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://nishanthspk.vercel.app/" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=NISHANTH+SPK&size=square"
+            alt="NISHANTH">
+        </a>
+      </td>
+     
+      <td align="center">
+        <a href="https://www.instagram.com/spkn_04?igsh=NXQ2cnE2endpNjA0" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@nishanthspk&size=square"
+            alt="@nishanthspk">
+        </a>
+      </td>
+      <td align="center">
         <a href="https://www.linkedin.com/in/nishanth-spk/" target="_blank">
           <img
             src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Nishanth SPK&size=square"
@@ -44,240 +43,234 @@
             alt="Nishanth SPK">
         </a>
       </td>
-  </tr>
-  <tr>
-    <!-- <td align="center">
-      <a href="https://twitch.tv/knightgamer2910" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square" alt="knightgamer2910">
-      </a>
-    </td> -->
-    <td align="center">
-      <a href="https://x.com/NishanthSpk" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@NishanthSpk&size=square" alt="@NishanthSpk">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.reddit.com/user/Bitter_View_6942/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/NishanthSPK&size=square" alt="NishanthSPK">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nishanthspk" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=nishanth+spk&size=square" alt="nishanthspk">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nishanthspk" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2Fnishanth+spk&size=square" alt="@nishanthspk">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishanthspk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-
-<h2 align="center">🚀 About Me</h2>
-
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
-<h3 align="center">Git Stats</h3>
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=nishanthspk&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanthspk&custom_title=Nishanth's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthspk&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishanthspk&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishanthspk&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nishanthspk&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanthspk&theme=highcontrast&hide_border=true">
-<!-- 
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/nishanthspk/MemeVerse">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanthspk&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+  
+      <td align="center">
+        <a href="https://x.com/NishanthSpk" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@NishanthSpk&size=square"
+            alt="@NishanthSpk">
         </a>
       </td>
-      <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+      <td align="center">
+        <a href="https://www.reddit.com/user/Bitter_View_6942/" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/NishanthSPK&size=square"
+            alt="NishanthSPK">
         </a>
       </td>
-    </tr>
-    <tr align="center">
-      <td colspan="2">
-        <a href="https://github.com/KenanGain/SmolLM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
+      <td align="center">
+        <a href="https://github.com/nishanthspk" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=nishanth+spk&size=square"
+            alt="nishanthspk">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nishanthspk" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2Fnishanth+spk&size=square"
+            alt="@nishanthspk">
         </a>
       </td>
     </tr>
   </table>
-</div> -->
 
-<br>
-<br>
-
-<a href="https://github.com/nishanthspk">
-    <img src="https://ghchart.rshah.org/nishanthspk" alt="Nishanth's GitHub Contribution Chart">
-</a>
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/nishanthspk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Nishanth's GitHub Stats">
-  <img src="https://github-readme-bento.vercel.app/stats/nishanthspk?theme=dark" alt="Nishanth's GitHub Stats">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanthspk" alt="Advanced GitHub Stats for Nishanth" width="400">
-
-
-</details>
-
-
-<br>
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=nishanthspk&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=nishanthspk" alt="GitHub Trophies for Nishanth">
-</details>
+
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nishanthspk&color=blueviolet&style=flat-square&label=Profile+Views"
+      alt="Profile views" width="200" height="35">
+  </p>
+
+
+  <h2 align="center">🚀 About Me</h2>
+
+  As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial
+  Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving
+  innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative
+  problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver
+  exceptional results in complex and dynamic environments.
+
+  <h3 align="center">Git Stats</h3>
+
+  <div align="center">
+
+    <img src="https://streak-stats.demolab.com/?user=nishanthspk&theme=highcontrast&hide_border=true"
+      alt="GitHub Streak" />
+    <br>
+    <br>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=nishanthspk&custom_title=Nishanth's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true"
+      alt="GitHub Activity Graph" />
+    <br>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthspk&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast"
+              alt="Top Languages">
+          </td>
+          <td>
+            <img
+              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishanthspk&theme=highcontrast&hide_border=true"
+              alt="Repos Per Language">
+          </td>
+          <td>
+            <img
+              src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishanthspk&theme=highcontrast&hide_border=true"
+              alt="Most Commit Language">
+          </td>
+        </tr>
+      </table>
+
+    </div>
+
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=nishanthspk&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast"
+      alt="Kenan's GitHub stats">
+
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanthspk&theme=highcontrast&hide_border=true">
+   
+    <br>
+    <br>
+
+    <a href="https://github.com/nishanthspk">
+      <img src="https://ghchart.rshah.org/nishanthspk" alt="Nishanth's GitHub Contribution Chart">
+    </a>
+
+
+    <details>
+      <summary style="font-size: 1.17em; font-weight: bold;">
+        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git
+        Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true"
+          width="10" />
+      </summary>
+
+      <img
+        src="https://myreadme.vercel.app/api/embed/nishanthspk?panels=userstatistics,toprepositories,toplanguages,commitgraph"
+        alt="Nishanth's GitHub Stats">
+      <img src="https://github-readme-bento.vercel.app/stats/nishanthspk?theme=dark" alt="Nishanth's GitHub Stats">
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanthspk"
+        alt="Advanced GitHub Stats for Nishanth" width="400">
+
+
+    </details>
+
+
+    <br>
+
+
+
+
+
+
+
+
+    <br>
+    <br>
+    <br>
+    <details>
+      <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+      <br>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=nishanthspk&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+        alt="GitHub Profile Trophy">
+      <img src="https://stats.dooboo.io/api/github-trophies?login=nishanthspk" alt="GitHub Trophies for Nishanth">
+    </details>
+
+
+
+  </div>
+  <br>
+
+
+
+
+
+
+  <br>
+
+
+
+  <br>
 
 
 
 </div>
-<br>
 
 
-
-
-
-
-<br>
-
-
-
-<br>
-
-
-  
-</div>
-
-
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h1 align="center"><img
+    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+    width="50px" height="50px"> Tech Stack</h1>
 
 <h3 align="center">Web Development</h3>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-        </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>jQuery
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="8" align="center" style="color: white;">Frontend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <a href="https://nextjs.org/" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+          </a>
+          <br>Next.js
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://tailwindcss.com/" style="color: white;">
+            <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50"
+              alt="Tailwind CSS" />
+          </a>
+          <br>Tailwind CSS
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://reactjs.org/" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+          </a>
+          <br>React
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://www.typescriptlang.org/" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+          </a>
+          <br>TypeScript
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://jquery.com/" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery" />
+          </a>
+          <br>jQuery
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+            <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
+          </a>
+          <br>HTML
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+            <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
+          </a>
+          <br>CSS
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 <br>
@@ -285,57 +278,61 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Backend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"
+            alt="Node.js" /><br>Node.js
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50"
+            alt="Django" /><br>Django
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask" /><br>Flask
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=express" width="50" height="50" /><br>Express
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 <br>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Database</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50"
+            height="50" /><br>MySQL
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" /><br>MongoDB
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50" /><br>PostgreSQL
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100"
+            height="40" /><br>Neo4j
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 <br>
@@ -343,54 +340,57 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3 align="center">Cloud Computing & DevOps</h3>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50"
+            height="50" /><br>Docker
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50"
+            height="50" /><br>Kubernetes
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50" /><br>Helm
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50"
+            height="50" /><br>Skaffold
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 <br>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50" /><br>Azure
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50" /><br>GCP
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" /><br>AWS
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 <br>
@@ -402,61 +402,62 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
-      </td>
-      <!-- <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
-      </td>
-  <td align="center" style="border: none;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
-      </td> -->
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80"
+            height="50" /><br>LangChain
+        </td>
+      
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
-      </td>
-       <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="6" align="center" style="color: white;">AI Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50"
+            alt="ChatGPT" /><br>ChatGPT
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png"
+            width="50" height="50" alt="Claude (Anthropic)" /><br>Claude (Anthropic)
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80"
+            height="80" /><br>Google Gemini
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"
+            alt="Hugging Face" /><br>Hugging Face
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50"
+            alt="Meta Llama" /><br>Meta Llama
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50"
+            alt="Cohere" /><br>Cohere
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 
@@ -469,11 +470,13 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:spknishanth2004@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=spknishanth2004@gmail.com&size=square" alt="Nishanth" style="margin: 10px;">
+        <img
+          src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=spknishanth2004@gmail.com&size=square"
+          alt="Nishanth" style="margin: 10px;">
       </a>
     </td>
-   
-   <td align="center">
+
+    <td align="center">
       <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9345444174&size=square"
         target="_blank">
         <img
@@ -488,12 +491,14 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <br>
 
 <h3>
-<div align="center">
-  
-⭐️ From [NishanthSPK](https://github.com/nishanthspk) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+  <div align="center">
+
+    ⭐️ From [NishanthSPK](https://github.com/nishanthspk) | Let's innovate together! <img
+      src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"
+      height="30px">
 
 
-</div>
+  </div>
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
