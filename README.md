@@ -11,7 +11,7 @@
 
 <br>
 
-<h2 align="left" id="NishanthSPK">Favorite Techs</h2>
+<h2 align="left" id="NishanthSPK">Favorite Tech.</h2>
 > Tools, languages, and other technologies that I like to work with.
 
 <table align="center">
