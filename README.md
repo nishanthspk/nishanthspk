@@ -7,7 +7,7 @@
 - 🌱 I’m currently pursuing B.E(CSE) in Jaya Engineering College.
 - 💞️ I’m very keen on enriching my skill set by collaborating with fellow devs.
 - 📫 Reach me on spknishanth2004@gmail.com
-- 💻  Connect with me on (https://www.linkedin.com/in/nishanth-spk/)
+- 💻  Connect with me on (https://www.linkedin.com/in/nishanth-spk/,https://x.com/NishanthSpk/)
 
 <br>
 
