@@ -3,7 +3,7 @@
 <h3>As a dynamic Frontend Web Developer  , I am fervently dedicated to continuous learning and embracing emerging technologies.</br> My passion extends to exploring the intricate world of blockchain technology, further enriching my skill set. </br> Committed to creating seamless, user-centric digital experiences, I leverage my expertise to drive innovation in the ever-evolving landscape of web development and design.</h3>
 
 - 👋 Hi, I’m Nishanth SPK.
-- 👀 I’m ferventlydedicated to continuous learning and embracing emerging technologies.
+- 👀 I’m fervently dedicated to continuous learning and embracing emerging technologies.
 - 🌱 I’m currently pursuing B.E(CSE) in Jaya Engineering College.
 - 💞️ I’m very keen on enriching my skill set by collaborating with fellow devs.
 - 📫 Reach me on spknishanth2004@gmail.com
