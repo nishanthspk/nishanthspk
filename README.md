@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Nishanth SPK.
 - 👀 I’m fervently dedicated to continuous learning and embracing emerging technologies.
 - 🌱 I’m currently pursuing B.E(CSE) in Jaya Engineering College.
-- 💞️ I’m very keen on enriching my skill set  collaborating with fellow devs.
+- 💞️ I’m very keen on enriching my skill set by collaborating with fellow devs.
 - 📫 Reach me on spknishanth2004@gmail.com
 - 💻  Connect with me on (https://www.linkedin.com/in/nishanth-spk/,https://x.com/NishanthSpk/)
 
