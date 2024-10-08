@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Nishanth S P K.</h1>
+<!-- <h1 align="center">Hey there 👋, I'm Nishanth S P K.</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!!</h3>
 <h3>As a dynamic Frontend Web Developer  , I am fervently dedicated to continuous learning and embracing emerging technologies.</br> My passion extends to exploring the intricate world of blockchain technology, further enriching my skillset. </br> Committed to creating seamless, user-centric digital experiences, I leverage my expertise to drive innovation in the ever-evolving landscape of web development and design.</h3>
 
@@ -255,4 +255,17 @@
 ### ✍️ Quote.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+ -->
 
+
+
+
+
+<h1 align="center">Hello , I'm NISHANTH SPK</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Free+Lancer;"
+    alt="Typing SVG" />
+
+</p>
