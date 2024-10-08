@@ -284,5 +284,12 @@
             alt="NISHANTH">
         </a>
       </td>
+       <td align="center">
+        <a href="https://www.instagram.com/spkn_04?igsh=NXQ2cnE2endpNjA0" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@nishanthspk&size=square"
+            alt="@nishanthspk">
+        </a>
+      </td>
    </tr>
  </table>
