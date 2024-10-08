@@ -269,3 +269,7 @@
     alt="Typing SVG" />
 
 </p>
+
+<p align="center">
+  Into Web3 | Free Lancer | Tech Enthusiast   
+</p>
