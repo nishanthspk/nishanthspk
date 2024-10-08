@@ -306,4 +306,34 @@
         </a>
       </td>
    </tr>
+   <tr>
+      <td align="center">
+        <a href="https://x.com/NishanthSpk" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@NishanthSpk&size=square"
+            alt="@NishanthSpk">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.reddit.com/user/Bitter_View_6942/" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/NishanthSPK&size=square"
+            alt="NishanthSPK">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nishanthspk" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=nishanth+spk&size=square"
+            alt="nishanthspk">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nishanthspk" target="_blank">
+          <img
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2Fnishanth+spk&size=square"
+            alt="@nishanthspk">
+        </a>
+      </td>
+    </tr>
  </table>
