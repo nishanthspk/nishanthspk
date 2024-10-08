@@ -294,7 +294,7 @@
        <td align="center">
         <a href="https://www.linkedin.com/in/nishanth-spk/" target="_blank">
           <img
-            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Nishanth SPK&size=square"
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@NishanthSPK&size=square"
             alt="Nishanth SPK">
         </a>
       </td>
