@@ -301,7 +301,7 @@
        <td align="center">
         <a href="https://www.facebook.com/profile.php?id=100071304971942&mibextid=ZbWKwL" target="_blank">
           <img
-            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Nishanth SPK&size=square"
+            src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@NishanthSPK&size=square"
             alt="Nishanth SPK">
         </a>
       </td>
