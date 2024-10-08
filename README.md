@@ -354,3 +354,92 @@
   exceptional results in complex and dynamic environments.
 
   <h3 align="center">Git Stats</h3>
+  
+  
+  <div align="center">
+    <img src="https://streak-stats.demolab.com/?user=nishanthspk&theme=highcontrast&hide_border=true"
+      alt="GitHub Streak" />
+    <br>
+    <br>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=nishanthspk&custom_title=Nishanth's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true"
+      alt="GitHub Activity Graph" />
+    <br>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthspk&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast"
+              alt="Top Languages">
+          </td>
+          <td>
+            <img
+              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishanthspk&theme=highcontrast&hide_border=true"
+              alt="Repos Per Language">
+          </td>
+          <td>
+            <img
+              src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishanthspk&theme=highcontrast&hide_border=true"
+              alt="Most Commit Language">
+          </td>
+        </tr>
+      </table>
+
+  </div>
+
+  <img
+      src="https://github-readme-stats.vercel.app/api?username=nishanthspk&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast"
+      alt="Kenan's GitHub stats">
+
+  <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanthspk&theme=highcontrast&hide_border=true">
+
+
+  <br>
+  <br>
+
+  <a href="https://github.com/nishanthspk">
+      <img src="https://ghchart.rshah.org/nishanthspk" alt="Nishanth's GitHub Contribution Chart">
+    </a>
+
+
+  <details>
+      <summary style="font-size: 1.17em; font-weight: bold;">
+        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git
+        Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true"
+          width="10" />
+      </summary>
+
+  <img
+        src="https://myreadme.vercel.app/api/embed/nishanthspk?panels=userstatistics,toprepositories,toplanguages,commitgraph"
+        alt="Nishanth's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/nishanthspk?theme=dark" alt="Nishanth's GitHub Stats">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=nishanthspk"
+        alt="Advanced GitHub Stats for Nishanth" width="400">
+
+
+  </details>
+
+
+  <br>
+
+
+
+
+
+  <br>
+  <br>
+  <br>
+  <details>
+      <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+      <br>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=nishanthspk&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+        alt="GitHub Profile Trophy">
+      <img src="https://stats.dooboo.io/api/github-trophies?login=nishanthspk" alt="GitHub Trophies for Nishanth">
+    </details>
+
+
+
+  </div>
