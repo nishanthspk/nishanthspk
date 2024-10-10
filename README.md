@@ -168,7 +168,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
   <br>
   <br>
   <details>
-      <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+      <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophys</summary>
       <br>
       <img
         src="https://github-profile-trophy.vercel.app/?username=nishanthspk&theme=radical&no-frame=false&no-bg=false&margin-w=4"
