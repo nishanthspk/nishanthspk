@@ -84,11 +84,10 @@
   
    <h2 align="center">🚀 About Me</h2>
 
-  As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial
-  Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving
-  innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative
-  problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver
-  exceptional results in complex and dynamic environments.
+ Frontend & Blockchain Developer
+Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile app development. Specialized in building scalable, user-friendly decentralized applications (dApps) using cutting-edge blockchain technologies. Passionate about creating efficient, high-performance web and mobile experiences. Always exploring emerging tech trends and contributing to open-source projects in the blockchain and frontend ecosystems.
+
+
 
   <h3 align="center">Git Stats</h3>
   
