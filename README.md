@@ -316,26 +316,6 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50"
             alt="ChatGPT" /><br>ChatGPT
         </td>
-        <td align="center" style="border: none;">
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png"
-            width="50" height="50" alt="Claude (Anthropic)" /><br>Claude (Anthropic)
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80"
-            height="80" /><br>Google Gemini
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"
-            alt="Hugging Face" /><br>Hugging Face
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50"
-            alt="Meta Llama" /><br>Meta Llama
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50"
-            alt="Cohere" /><br>Cohere
-        </td>
       </tr>
     </tbody>
   </table>
