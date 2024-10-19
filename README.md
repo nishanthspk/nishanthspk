@@ -381,24 +381,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 
 
 
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80"
-            height="50" /><br>LangChain
-        </td>
-     
-  </tr>
-  </tbody>
-  </table>
-</div>
+
 
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
