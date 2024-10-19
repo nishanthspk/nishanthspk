@@ -165,8 +165,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 
 
   <br>
-  <br>
-  <br>
+ 
   <details>
       <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophys</summary>
       <br>
@@ -179,8 +178,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
   </div>
   
   <br>
-  <br>
-  <br>
+ 
   
   </div>
   
