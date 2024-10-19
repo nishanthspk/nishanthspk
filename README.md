@@ -301,39 +301,6 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 <br>
 <br>
 
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50" /><br>Azure
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50" /><br>GCP
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" /><br>AWS
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-
-
-
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
