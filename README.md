@@ -302,7 +302,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 <br>
 
 
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
+
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
@@ -322,8 +322,8 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 </div>
 
 
-</br>
-</br>
+<br>
+<br>
 
 
 <h2 align="center">📫 Let's Connect!</h2>
