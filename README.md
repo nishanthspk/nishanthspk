@@ -299,36 +299,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 <br>
 <br>
 
-<h3 align="center">Cloud Computing & DevOps</h3>
 
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50"
-            height="50" /><br>Docker
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50"
-            height="50" /><br>Kubernetes
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50" /><br>Helm
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50"
-            height="50" /><br>Skaffold
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 <br>
 <br>
 
