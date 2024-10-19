@@ -298,8 +298,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 <br>
 
 
-<br>
-<br>
+
 
 
 
