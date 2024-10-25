@@ -354,7 +354,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 <h3>
   <div align="center">
 
-  ⭐ From [NishanthSPK](https://github.com/nishanthspk) | Let's innovate together! <img
+  ⭐ From [NishanthSPK](https://github.com/nishanthspk) | Let's innovate together ! <img
       src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"
       height="30px">
 
