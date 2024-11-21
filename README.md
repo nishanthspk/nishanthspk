@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm  NISHANTH SPK</h1>
+<h1 align="center">Hello , I'm NISHANTH SPK</h1>
 
 <p align="center">
   <img
