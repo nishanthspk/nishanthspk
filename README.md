@@ -94,7 +94,7 @@ Proficient in ReactJS (Vite), NextJS, Tailwind CSS, and React Native for mobile 
 
 
 
-  <h3 align="center">Git Stats</h3>
+<h3 align="center">Git Stats</h3>
   
   
   <div align="center">
