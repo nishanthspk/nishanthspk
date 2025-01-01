@@ -10,7 +10,6 @@
   Into Web3 | Free Lancer | Tech Enthusiast    
 </p>
 
-
 <div align="center">
  <table>
   <tr>
